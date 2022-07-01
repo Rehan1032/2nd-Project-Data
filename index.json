@@ -1,0 +1,26 @@
+{
+    "Category":[
+        {
+            "id":1,
+            "category":"Dmart Grocery"
+        },
+
+        {
+            "id":2,
+            "category ":"Dairy & Beverages"
+        },
+
+        {
+            "id":3,
+            "category":"Home & Kitchen"
+        },
+
+        {
+            "id":4,
+            "category":"Packaged Food"
+        }
+    ]
+
+}
+
+
