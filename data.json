@@ -7,7 +7,7 @@
             "type":"Channa Dal",
             "price": "₹ 80",
             "weight":"1kg",
-            "image":"https://ibb.co/b6ntqCt"
+            "image":"https://i.ibb.co/3CTtdrz/dal.jpg"
 
         },
  
@@ -17,7 +17,7 @@
             "type":"Moong Dal",
             "price": "₹ 116",
             "weight":"1kg",
-            "image":"https://ibb.co/tCYJcBk"
+            "image":"https://i.ibb.co/FgkVp3J/mong.jpg"
 
         },
 
@@ -27,7 +27,7 @@
             "type":"Tur Dal",
             "price": "₹ 120",
             "weight":"1kg",
-            "image":"https://ibb.co/0K2gH2x"
+            "image":"https://i.ibb.co/0Q5dv0M/tur.jpg"
 
         },
 
@@ -37,7 +37,7 @@
             "type":"Rajma",
             "price": "₹ 98",
             "weight":"500gm",
-            "image":"https://ibb.co/tJ4gmFJ"
+            "image":"https://i.ibb.co/kyD4SVD/rjm.jpg"
 
         },
 
@@ -47,7 +47,7 @@
             "type":"Tea",
             "price": "₹ 480",
             "weight":"1kg",
-            "image":"https://ibb.co/6Wh2xJf"
+            "image":"https://i.ibb.co/6Xqp7Xh/tea.jpg"
 
         },
 
@@ -57,7 +57,7 @@
             "type":"Soft Drinks",
             "price": "₹ 97",
             "weight":"2.25L",
-            "image":"https://ibb.co/SPV3nZB"
+            "image":"https://i.ibb.co/LDK1tmN/drinK.jpg"
 
         },
 
@@ -67,7 +67,7 @@
             "type":"Butter",
             "price": "₹ 245",
             "weight":"500gm",
-            "image":"https://ibb.co/wsfxSJs"
+            "image":"https://i.ibb.co/Th7gT1K/Butter.jpg"
 
         },
 
@@ -77,7 +77,7 @@
             "Category_id":"3",
             "type":"Sofa Covers",
             "price": "₹ 1149",
-            "image":"https://ibb.co/WnTpRzR"
+            "image":"https://i.ibb.co/gWpdbtH/cvr.jpg"
 
         },
 
@@ -87,7 +87,7 @@
             "type":"Wall clocks",
             "price": "₹ 270",
             "weight":"1U",
-            "image":"https://ibb.co/dGrD8Lg"
+            "image":"https://i.ibb.co/brvtnJY/clck.jpg" 
 
         },
 
@@ -97,7 +97,7 @@
             "type":"Chair Covers",
             "price": "₹ 199",
             "weight":"1U",
-            "image":"https://ibb.co/bb0YXXH"
+            "image":"https://i.ibb.co/z41cbzX/cvr1.jpg"
 
         },
 
@@ -108,7 +108,7 @@
             "type":"Pasta & Noodles",
             "price": "₹ 199",
             "weight":"560gm",
-            "image":"https://ibb.co/QHK2fQb"
+            "image":"https://i.ibb.co/0yrnrrm/pnd.jpg"
 
         },
 
@@ -119,7 +119,7 @@
             "type":"Soups",
             "price": "₹ 50",
             "weight":"43gm",
-            "image":"https://ibb.co/Bf29ny2"
+            "image":"https://i.ibb.co/M2KTtYx/sp.jpg"
 
         },
 
@@ -130,7 +130,7 @@
             "type":"chocolates",
             "price": "₹ 100",
             "weight":"125gm",
-            "image":"https://ibb.co/mSj94KF"
+            "image":"https://i.ibb.co/yYcT4Fz/fr.jpg"
 
         }
 
